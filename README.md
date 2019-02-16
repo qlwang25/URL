@@ -1,3 +1,8 @@
+# conference
+[AI Conference Deadlines](https://aideadlin.es/?sub=ML)  
+[machine-learning](http://www.guide2research.com/topconf/machine-learning)  
+
+
 # match
 [kaggle](https://www.kaggle.com/)  
 [天池](https://tianchi.aliyun.com/home/)  
