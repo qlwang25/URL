@@ -6,7 +6,7 @@
 [北京大学语言计算与机器学习研究组](http://lanco.pku.edu.cn/members/index.htm)  
 [北京大学计算语言学教育部重点实验室](http://klcl.pku.edu.cn/sysgk/jj/index.htm)  
 [bytedance.ailab](https://ailab.bytedance.com/)  
-[tencent.nlp](https://ai.tencent.com/ailab/nlp/)
+[tencent.nlp](https://ai.tencent.com/ailab/nlp/)  
 [Danqi Chen](https://cs.stanford.edu/~danqi/)  
 
 
