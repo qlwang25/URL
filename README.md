@@ -15,6 +15,7 @@
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML)  
 [machine-learning](http://www.guide2research.com/topconf/machine-learning)  
 [wikicfp](http://www.wikicfp.com/cfp/)  
+[allconferences](http://www.allconferences.com/)  
 
 
 # match
