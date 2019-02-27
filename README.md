@@ -25,6 +25,7 @@
 
 
 # method
+[deep-learning](https://www.sagivtech.com/deep-learning/)  
 [廖雪峰](https://www.liaoxuefeng.com/)  
 [Using Git](https://gist.github.com/hofmannsven/6814451)  
 [在 Linux 上使用 SSHfs 挂载一个远程文件系统](https://linux.cn/article-6586-1.html)  
@@ -35,4 +36,5 @@
 [draw](https://www.draw.io/)  
 [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)  
 [Equation Editor](http://latex.codecogs.com/eqneditor/editor.php?mode=NEW)  
+
 
