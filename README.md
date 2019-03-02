@@ -5,6 +5,7 @@
 [清华大学自然语言处理与社会人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh)  
 [北京大学语言计算与机器学习研究组](http://lanco.pku.edu.cn/members/index.htm)  
 [北京大学计算语言学教育部重点实验室](http://klcl.pku.edu.cn/sysgk/jj/index.htm)  
+[Princeton Natural Language Processing](http://nlp.cs.princeton.edu/)  
 [bytedance.ailab](https://ailab.bytedance.com/)  
 [tencent.nlp](https://ai.tencent.com/ailab/nlp/)  
 [Danqi Chen](https://cs.stanford.edu/~danqi/)  
