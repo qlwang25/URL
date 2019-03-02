@@ -8,6 +8,7 @@
 [Princeton Natural Language Processing](http://nlp.cs.princeton.edu/)  
 [bytedance.ailab](https://ailab.bytedance.com/)  
 [tencent.nlp](https://ai.tencent.com/ailab/nlp/)  
+[Christopher Manning](https://nlp.stanford.edu/manning/)  \\
 [Danqi Chen](https://cs.stanford.edu/~danqi/)  
 
 
