@@ -38,5 +38,6 @@
 [draw](https://www.draw.io/)  
 [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)  
 [Equation Editor](http://latex.codecogs.com/eqneditor/editor.php?mode=NEW)  
+[Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)  
 
 
