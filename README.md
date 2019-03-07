@@ -39,5 +39,6 @@
 [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)  
 [Equation Editor](http://latex.codecogs.com/eqneditor/editor.php?mode=NEW)  
 [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)  
+jupyter [lab](https://www.blopig.com/blog/2018/03/running-jupyter-notebook-on-a-remote-server-via-ssh/) and [notebook](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)  
 
 
