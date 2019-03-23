@@ -28,6 +28,7 @@
 
 # method
 [deep-learning](https://www.sagivtech.com/deep-learning/), [jhui](https://jhui.github.io/)  
+[神经网络与深度学习](https://nndl.github.io/)  
 [廖雪峰](https://www.liaoxuefeng.com/)  
 [Using Git](https://gist.github.com/hofmannsven/6814451)  
 [在 Linux 上使用 SSHfs 挂载一个远程文件系统](https://linux.cn/article-6586-1.html)  
