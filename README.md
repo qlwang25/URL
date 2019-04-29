@@ -10,7 +10,7 @@
 [tencent.nlp](https://ai.tencent.com/ailab/nlp/)  
 [Christopher Manning](https://nlp.stanford.edu/manning/)  
 [Danqi Chen](https://cs.stanford.edu/~danqi/)  
-
+[Agustinus Kristiadi](https://wiseodd.github.io/techblog/)  
 
 
 # conference
