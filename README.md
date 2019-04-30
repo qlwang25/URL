@@ -37,7 +37,7 @@
 
 # Tool  
 文献搜索: [oalib](http://www.oalib.com/) and [sci-hub](https://sci-hub.org.cn/) and [scihub.org](https://scihub.org/search/)  
-[paper writer](http://www.phrasebank.manchester.ac.uk/)
+[paper writer](http://www.phrasebank.manchester.ac.uk/)  
 画图: [draw](https://www.draw.io/) and [myscript](https://webdemo.myscript.com/)   
 [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)  
 公式: [Equation Editor](http://latex.codecogs.com/eqneditor/editor.php?mode=NEW)  
