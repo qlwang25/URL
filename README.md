@@ -36,16 +36,16 @@
 
 
 # Tool  
-[oalib](http://www.oalib.com/)[sci-hub](https://sci-hub.org.cn/)[scihub.org](https://scihub.org/search/)  
+[oalib](http://www.oalib.com/) and [sci-hub](https://sci-hub.org.cn/) and [scihub.org](https://scihub.org/search/)  
 [draw](https://www.draw.io/)  
 [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)  
 [Equation Editor](http://latex.codecogs.com/eqneditor/editor.php?mode=NEW)  
 [myscript](https://webdemo.myscript.com/)  
 [Tranlates](http://dict.cnki.net/)  
-[thesaurus](https://www.thesaurus.com/)[linggle](https://linggle.com/)  
+[thesaurus](https://www.thesaurus.com/) and [linggle](https://linggle.com/)  
 [Name](http://acronymify.com/)  
 [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)  
 Jupyter[介绍、安装及使用教程](https://www.jianshu.com/p/91365f343585)　[lab](https://www.blopig.com/blog/2018/03/running-jupyter-notebook-on-a-remote-server-via-ssh/) and [notebook](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)  
-[smallpdf](https://smallpdf.com/cn/)
+[smallpdf](https://smallpdf.com/cn/)  
 
 
